@@ -1,6 +1,6 @@
 👋 Hello there! I'm Zuzanna.
 
-💻 Aspiring Fullstack Developer in the learning process at "GoIt" Bootcamp.
+💻 Aspiring Fullstack Developer in the learning process.
 
 🧗‍♀️ Climbing enthusiast, always reaching for new heights.
 
@@ -8,7 +8,7 @@
 
 📫 Feel free to connect and collaborate!  🤝
 
-✉️ Email: livia.zuzanna@gmail.com
+✉️ Email: zuzanna.maciejczyk@gmail.com
 
 <!---
 Zjadlbyscos/Zjadlbyscos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
