@@ -1,6 +1,6 @@
 👋 Hello there! I'm Zuzanna.
 
-💻 Aspiring Fullstack Developer in the learning process.
+💻 Fullstack Developer in the learning process.
 
 🧗‍♀️ Climbing enthusiast, always reaching for new heights.
 
